@@ -1,4 +1,4 @@
-# RSANet
+# SAFE-NET
 This repository contains the source code for our paper:
 
 **"Deep Learning–Based Intracranial Aneurysm Segmentation Using Synergy Attention and Edge Guidance"**
